@@ -1,0 +1,12 @@
+{
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "themes/",
+    "scaffolds/"
+  ],
+  "attachmentFolderPath": "source/pictures",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}

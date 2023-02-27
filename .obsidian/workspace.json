@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "63f1a329562c0aa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fae4f92c8c35dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a6e3bf6304b482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/共产党宣言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d386127b6ba5a712",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bad29cbd44fdf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5681962faf644530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3830f0ace7eb56b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "799ac8592b294b4d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f3ef11e6509e529",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "aa1169576d918bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e137dcf0e26aa760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02ba50653c9a44d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/共产党宣言.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "90b9f5fb9b9f45cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/共产党宣言.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5bbca5d4de3f244c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07b74922ef8a5b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/共产党宣言.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "d8a6e3bf6304b482",
+  "lastOpenFiles": [
+    "source/_posts/测试「过一遍」JVM.md",
+    "source/_posts/测试.md",
+    "source/categories/index.md",
+    "source/essay/index.md",
+    "source/_posts/共产党宣言.md",
+    "source/about/index.md",
+    "source/_posts/hello-world.md",
+    "source/_obsidian/Post Template.md",
+    "source/_posts/测试 333.md",
+    "source/tags/index.md"
+  ]
+}
