@@ -5,7 +5,7 @@ tags:
 categories: 
 toc: true
 hide: false
-sticky: false
+sticky: 0
 ---
 
 {% note blue 'fas fa-bullhorn' %}

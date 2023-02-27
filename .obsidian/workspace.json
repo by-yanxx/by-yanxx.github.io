@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/共产党宣言.md",
+                "file": "source/_posts/「JVM」垃圾回收01——概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "aa1169576d918bf4",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/共产党宣言.md",
+                "file": "source/_posts/「JVM」垃圾回收01——概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/共产党宣言.md",
+                "file": "source/_posts/「JVM」垃圾回收01——概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/共产党宣言.md"
+                "file": "source/_posts/「JVM」垃圾回收01——概述.md"
               }
             }
           }
@@ -142,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +159,15 @@
   },
   "active": "d8a6e3bf6304b482",
   "lastOpenFiles": [
-    "source/_posts/测试「过一遍」JVM.md",
+    "source/_obsidian/Post Template.md",
+    "source/_posts/「JVM」垃圾回收01——概述.md",
+    "source/_posts/共产党宣言.md",
     "source/_posts/测试.md",
+    "source/_posts/测试 2.md",
+    "source/_posts/测试「过一遍」JVM.md",
     "source/categories/index.md",
     "source/essay/index.md",
-    "source/_posts/共产党宣言.md",
     "source/about/index.md",
-    "source/_posts/hello-world.md",
-    "source/_obsidian/Post Template.md",
-    "source/_posts/测试 333.md",
-    "source/tags/index.md"
+    "source/_posts/hello-world.md"
   ]
 }
