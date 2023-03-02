@@ -1,7 +1,7 @@
 ---
 title: {{title}}
 date: {{date}}
-tags:
+tags: 
 categories: 
 toc: true
 hide: false
@@ -9,8 +9,11 @@ sticky: 0
 ---
 
 {% note blue 'fas fa-bullhorn' %}
-文章开篇内容简介
+内容包括：
+1. 
 {% endnote %}
+
+---
 
 {% note red 'fas fa-warning' %}
 特别注意
