@@ -15,18 +15,4 @@ sticky: 0
 
 ---
 
-{% note red 'fas fa-warning' %}
-特别注意
-{% endnote %}
-
-{% note green 'fas fa-lightbulb' %}
-内容补充
-{% endnote %}
-
-{% note orange 'fas fa-flag' %}
-其他标记
-{% endnote %}
-
-{% note info simple %} 
-info 提示块标签
-{% endnote %}
+{% label 标签外挂 blue %}

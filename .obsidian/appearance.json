@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula for Obsidian"
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 14,
+  "theme": "moonstone"
 }

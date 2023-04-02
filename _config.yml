@@ -5,8 +5,8 @@
 # Site
 title: yby's blog
 subtitle: ''
-description: '全世界的无产者，联合起来！'
-#'Stay hungry. Stay foolish.'
+description: 'Stay hungry. Stay foolish.'
+#'全世界的无产者，联合起来！'
 keywords:
 author: yanxx
 language: zh-CN
@@ -52,7 +52,7 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-butterfly
+theme: hexo-theme-vexo
+#hexo-theme-butterfly
 #particlex
 
 # Deployment

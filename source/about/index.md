@@ -1,6 +1,4 @@
 ---
-title: about
-date:
+title: About
+layout: about
 ---
-
-## 这里是 yby 的博客，欢迎~

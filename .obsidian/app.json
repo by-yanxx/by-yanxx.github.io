@@ -8,5 +8,7 @@
   "attachmentFolderPath": "source/pictures",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false,
+  "vimMode": true
 }

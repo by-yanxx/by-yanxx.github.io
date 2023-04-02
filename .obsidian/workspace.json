@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "350a71d029d884b2",
+        "id": "35aaa71a0bb2966d",
         "type": "tabs",
         "children": [
           {
-            "id": "b00d0e00718c74dd",
+            "id": "4eb47ecb734eaac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Java 并发_理论基础篇.md",
+                "file": "source/_posts/MySQL_基础篇.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f62b2e1875bff513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/计网_HTTP vs HTTPS（应用层）.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -45,17 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5681962faf644530",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "3830f0ace7eb56b9",
+            "id": "43584fb3bcfaad73",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,64 +57,12 @@
             }
           },
           {
-            "id": "8f3ef11e6509e529",
+            "id": "5681962faf644530",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 286.5
-  },
-  "right": {
-    "id": "aa1169576d918bf4",
-    "type": "split",
-    "children": [
-      {
-        "id": "e137dcf0e26aa760",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b02ba50653c9a44d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
+              "type": "file-explorer",
               "state": {
-                "file": "source/_posts/Java 并发_理论基础篇.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "90b9f5fb9b9f45cb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "source/_posts/Java 并发_理论基础篇.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5bbca5d4de3f244c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -145,61 +72,77 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Java 并发_理论基础篇.md"
+                "file": "source/_posts/MySQL_基础篇.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 232.5
+  },
+  "right": {
+    "id": "aa1169576d918bf4",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "templates:插入模板": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "b00d0e00718c74dd",
+  "active": "4eb47ecb734eaac0",
   "lastOpenFiles": [
-    "public/categories/JavaSE/index.html",
-    "public/pictures/29472a668f643dcd36af5ae405f680de.jpeg",
-    "public/pictures/Pasted image 20230301210841.png",
-    "public/pictures/Pasted image 20230301201735.png",
-    "public/pictures/Pasted image 20230301204201.png",
-    "public/tags/HTTPS/index.html",
-    "public/tags/HTTPS",
-    "public/tags/HTTP/index.html",
-    "public/tags/HTTP",
-    "public/2023/03/01/计网_网络分层模型（基础）/index.html",
-    "public/2023/03/01/计网_网络分层模型（基础）",
-    "public/2023/03/01/计网_HTTP vs HTTPS（应用层）/index.html",
-    "public/2023/03/01/计网_HTTP vs HTTPS（应用层）",
-    "public/2023/03/01/计网_宏观 HTTP（应用层）/index.html",
-    "public/2023/03/01/计网_宏观 HTTP（应用层）",
-    "source/_posts/Java 并发_Java 中所有的锁.md",
-    "source/_posts/Java 并发_线程基础篇.md",
-    "source/_posts/计网_宏观 HTTP（应用层）.md",
-    "source/_posts/Java 并发_理论基础篇.md",
-    "source/pictures/29472a668f643dcd36af5ae405f680de.jpeg",
-    "source/pictures/Pasted image 20230301210841.png",
-    "source/_posts/计网_HTTP vs HTTPS（应用层）.md",
-    "source/_posts/计网_网络分层模型（基础）.md",
-    "source/pictures/Pasted image 20230301204201.png",
-    "source/pictures/Pasted image 20230301201735.png",
+    "public/live2d-widget/assets/screenshot-2.png",
+    "public/live2d-widget/assets/screenshot-3.png",
+    "public/live2d-widget/waifu-tips.json",
+    "public/live2d-widget/rollup.config.js",
+    "public/live2d-widget/live2d.min.js",
+    "public/css/style.css",
+    "public/js/gitment.js",
+    "public/js/qrious.js",
+    "public/js/script.js",
+    "public/js/local-search.js",
+    "public/live2d-widget/waifu.css",
+    "public/live2d-widget/package.json",
+    "public/css/images/menu.png",
+    "public/css/images/top.png",
+    "public/css/images/wechat.jpg",
+    "public/css/images/escheres.png",
+    "public/css/images/error_icon.png",
+    "public/css/images/logo.png",
+    "public/css/images/icp.png",
+    "public/css/images/ga.png",
+    "public/css/images/alipay.jpg",
+    "themes/hexo-theme-vexo/_source/tags/index.md",
+    "themes/hexo-theme-vexo/_source/series/index.md",
+    "themes/hexo-theme-vexo/_source/project/index.md",
+    "themes/hexo-theme-vexo/_source/about/index.md",
+    "themes/hexo-theme-vexo/README.md",
+    "source/_posts/⌛️ Redis 速通.md",
+    "source/_posts/testTypora.md",
+    "source/_posts/Untitled.md",
+    "source/_posts/计网_HTTP 篇.md",
+    "source/_posts/共产党宣言.md",
+    "source/_posts/八股掌握内容概览.md",
+    "source/_posts/「源码分析」可重入锁避免死锁.md",
+    "source/_posts/「源码分析」并发修改异常.md",
+    "source/_drafts/Java 容易忘记的一些方法.md",
+    "source/_posts/typora 测试.md",
     "source/_obsidian/Post Template.md",
-    "source/_drafts/JVM 八股自测.md",
-    "source/_drafts/「JVM」垃圾回收01——概述.md",
-    "source/_drafts/「JVM」01 类加载机制.md",
-    "source/_drafts/「JVM」04 调优与问题排查.md",
-    "source/_posts/八股掌握内容概览.md"
+    "source/_posts/MySQL_基础篇.md",
+    "source/_drafts/Java 并发_线程基础篇.md",
+    "source/_drafts/Java 并发_Java 中所有的锁.md",
+    "source/_drafts/Java 并发_synchronized 及其优化.md",
+    "source/_drafts/Java 并发_volatile.md",
+    "source/_drafts/Java 并发_理论基础篇.md",
+    "source/_drafts/计网_宏观 HTTP（应用层）.md",
+    "source/_drafts/计网_网络分层模型（基础）.md",
+    "source/_drafts/计网_HTTP vs HTTPS（应用层）.md"
   ]
 }
