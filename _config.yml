@@ -106,5 +106,5 @@ theme: hexo-theme-vexo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:by-yanxx/by-yanxx.github.io.git # https://github.com/by-yanxx/by-yanxx.github.io
+  repo: https://github.com/by-yanxx/by-yanxx.github.io # git@github.com:by-yanxx/by-yanxx.github.io.git
   branch: main
